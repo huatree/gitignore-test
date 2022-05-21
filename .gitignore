@@ -3,6 +3,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,node
 
+file2.*
+
 ### Node ###
 # Logs
 logs
